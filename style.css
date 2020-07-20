@@ -1,0 +1,56 @@
+/*//////////////////////////FIRST BLOCK////////////////////////////*/
+.col ul {
+    text-align: center;
+    padding: 0%;
+}
+.col li {
+    display: inline-block;
+    margin: 0 30px 0 30px;
+    color: #000 !important;
+    text-decoration: none;
+}
+#nawBar {
+    background-color: #FFFFFF;
+    height: 945px;
+}
+.helloSite h4,h3{
+    text-align: center;
+}
+.helloSite h4 {
+    margin-top: 300px;
+    font-size: 44px;
+    color: #1D1E1F;
+    font-family: HelveticaNeueLTPro-Lt,AdobeInvisFont,MyriadPro-Regular;
+}
+.helloSite h3 {
+    
+    font-size: 16px;
+    color:  #1D1E1F;
+    font-family: Merriweather-LightItalic,AdobeInvisFont,MyriadPro-Regular;
+}
+.moveButton {
+    text-align: center;
+    margin-top: 43px;
+    margin-bottom: 358px;
+}
+.moveButton button{
+    width: 190px;
+    height: 90px;
+    font-size: 13px;
+    font-family: Montserrat-Regular,AdobeInvisFont,MyriadPro-Regular;
+    opacity: 0.5;
+    box-shadow: none;
+}
+    /*//////////////////////////SECOND BLOCK////////////////////////////*/
+.justBgr img{
+    width: 100%;
+   
+}
+/*//////////////////////////THIRD BLOCK////////////////////////////*/
+.team {
+    height: 760px;
+}
+.team h4 {
+    font-size: 34px;
+    text-align: center;
+}
