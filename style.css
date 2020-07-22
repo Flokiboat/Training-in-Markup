@@ -54,3 +54,50 @@
     font-size: 34px;
     text-align: center;
 }
+#AboutTeam {
+    text-align: center;
+    height: 26px;
+    font-size: 34px;
+    color: #1D1E1F;
+    font-family: HelveticaNeueLTPro-Lt,AdobeInvisFont,MyriadPro-Regular;
+}
+#dopTeam {
+    text-align: center;
+    height: 17px;
+    font-size:16px;
+    font-family: Merriweather-LightItalic,AdobeInvisFont,MyriadPro-Regular;
+}
+.whoWorks {
+    margin: 125px 0 0 70px;
+}
+/*//////////////////////////FOUR BLOCK////////////////////////////*/
+.bgrForm {
+    background-image: url(./img/Services\ Background@1X.png);
+    background-repeat: no-repeat;
+    height: 1700px;
+    width: 100%;
+
+}
+.provideYou p {
+   
+    text-align: center;
+}
+
+#contactUs {
+    text-align: center;
+    height: 26px;
+    color: #1D1E1F;
+    font-family: HelveticaNeueLTPro-Lt,AdobeInvisFont,MyriadPro-Regular;
+    font-size: 34px;
+}
+#weKnow {
+    text-align: center;
+    height: 14px;
+    color: #898888;
+    font-family: Merriweather-LightItalic,AdobeInvisFont,MyriadPro-Regular;
+    font-size: 16px;
+}
+.lastBlock {
+    margin-top: 300px;
+    text-align: center;
+}
